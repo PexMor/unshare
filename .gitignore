@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+FS.py
+SCHED.py
